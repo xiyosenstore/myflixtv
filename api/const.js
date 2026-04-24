@@ -1,5 +1,5 @@
 const api = {
-   key: "34a90711751115d4892bd58691b55397",
+   key: "b6b24d5d522a3e82a47a96ac079b6fab",
    url: "https://api.themoviedb.org/3",
    img: "https://image.tmdb.org/t/p/w500",
 }
